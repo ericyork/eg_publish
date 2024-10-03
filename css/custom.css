@@ -1,0 +1,16 @@
+body {
+  width: 72ch;
+  margin: 0 auto;
+}
+img {
+  width: 100%;
+  max-width: 36rem;
+  opacity: .5;
+}
+img:hover{
+  opacity: 1;
+}
+
+h2 {
+  color: rebeccapurple;
+}
